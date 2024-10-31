@@ -1,4 +1,8 @@
 
-# Module notes
+# Module 8 notes
 
-Use this file for your notes.
+In this module we will continue the discussion on:
+- `functions`
+- Advanced `Strings`
+    - Slicing
+    - Introduction to `REGEX`
